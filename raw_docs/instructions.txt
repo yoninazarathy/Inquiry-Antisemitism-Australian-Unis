@@ -1,0 +1,6 @@
+Have all the pdf files downloaded into here (they are not commited).
+
+Useful to use in developer tools:
+
+document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => checkbox.checked = true);
+
